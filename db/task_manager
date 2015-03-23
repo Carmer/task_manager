@@ -1,0 +1,9 @@
+---
+tasks:
+- id: 1
+  title: Task1
+  description: This is a test to see if a task can be created
+- id: 2
+  title: task2
+  description: test test test
+total: 2
